@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Viv"s Vitality',
+  title: 'Vivs Vitality',
   tagline: 'Healing In Your Hands',
   favicon: 'img/favicon.ico',
 
